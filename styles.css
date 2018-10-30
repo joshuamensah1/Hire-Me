@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    background-color:DodgerBlue;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQTU7KkhmlFLv8R1ojOX9yRPRflg51U4Q4kk2j2w-zM_K3E4aO");
+
+    }
+p{
+    color:snow;
+    font-family: 'Spicy Rice', cursive;
+    }
+img{
+    border:solid 15px;
+    width:200px;
+    color:snow;
+    }
